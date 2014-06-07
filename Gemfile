@@ -38,6 +38,8 @@ gem "turn", "~> 0.9.6"
 #Testing
 gem 'factory_girl_rails'
 
+gem "twitter-bootstrap-rails"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
